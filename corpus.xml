@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="edition_thierry.xsl" type="text/xsl"?>
+<?xml-stylesheet type="text/xsl" href="edition_thierry.xsl"?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+     <teiHeader>
+         <fileDesc>
+             <titleStmt>
+                 <title>Édition numérique de la correspondance scientifique de Jean-Michel et Nicole Thierry</title>
+                 <author role="transcription et édition">Maud Mélinand</author>
+                 <editor role="institution d'accueil">Institut national d'histoire de l'art</editor>
+             </titleStmt>
+	        <publicationStmt>
+	            <p>Ces lettres n’ont jamais été publiées ni éditées électroniquement auparavant. Elles sont accessibles à la consultation à l’Institut national d’histoire de l’art, 
+	                mais le fonds d’archives n’a pas encore été correctement classé, d’où l’absence de numéro d’inventaire pour ces documents. Les titres donnés à ces documents sont 
+	                des titres créés zspécifiquement pour cette édition numérique. Le fonds d’archives relève du régime du domaine public ; les documents sont donc libres de droits 
+	                de diffusion et peuvent être exploités.
+	            </p>
+	        </publicationStmt>
+	        <sourceDesc>
+	            <p>Ces trois lettres sont extraites d'une correspondance conservée dans les archives personnelles de Jean-Michel et Nicole Thierry, conservées à l'Institut national
+	                d'histoire de l'art. Celles-ci ont été conservées au sein d'une correspondance variée (dates, récipiendaires), qui témoigne de l'activité des chercheurs, 
+	                à la fois professionnelle et personnelle.</p>
+	        </sourceDesc>
+         </fileDesc>
+     </teiHeader>
+     <TEI xml:id="lettre_01">
+         <teiHeader>
+             <fileDesc>
+                 <titleStmt>
+                     <title>Lettre du Club Unesco des Arméniens adressée à Jean-Michel et Nicole Thierry, datée du 24/12/1981</title>
+                     <author>M. Amtablian pour le Club Unesco des Arméniens</author>
+                 </titleStmt>
+                 <publicationStmt>
+                     <ab>Cet encodage minimal ne s'intéresse pas aux aspects textuels de la source mais à l'indexation précise des lieux et personnes mentionnés.</ab>
+                 </publicationStmt>
+                 <sourceDesc>
+                     <p>Lettre du Club Unesco des Arméniens adressée à Jean-Michel et Nicole Thierry, datée du 24/12/1981</p>
+                 </sourceDesc>
+             </fileDesc>
+             <profileDesc>
+                 <langUsage>
+                     <language ident="fr">français</language>
+                 </langUsage>
+                 <correspDesc>
+                     <correspAction type="sent">
+                         <orgName>Club Unesco des Arméniens</orgName>
+                         <persName>M. Amtablian</persName>
+                         <placeName>15 rue du 24 avril 1915 - 69150 DECINES</placeName>
+                         <date>24.12.1981</date>
+                     </correspAction>
+                     <correspAction type="received">
+                         <persName>Jean-Michel Thierry</persName>
+                         <persName>Nicole Thierry</persName>
+                         <placeName>8 rue Bouilloux-Laffont - 91150 ETAMPES</placeName>
+                     </correspAction>
+                     <correspContext>
+                         <p></p>
+                     </correspContext>
+                 </correspDesc>
+                 <particDesc>
+                     <listPerson>
+                         <person xml:id="L1_personne_01">
+                             <persName>Jean-Michel Thierry</persName>
+                             <idno type="wikidata">Q3168161</idno>
+                             <note>Chirurgien et historien de l'art français spécialiste de l'architecture arménienne (1916-2011)</note>
+                         </person>
+                         <person xml:id="L1_personne_02">
+                             <persName>Nicole Thierry</persName>
+                             <idno type="idref">03369723X</idno>
+                             <note>Anésthésiste et historienne de l'art française, spécialiste du patrimoine chrétien de Cappadoce (1925- )</note>
+                         </person>
+                         <person xml:id="L1_personne_03">
+                             <persName>Adriano Alpago-Novello</persName>
+                             <idno type="wikidata">Q4685556</idno>
+                             <note>Architecte et historien de l'art italien spécialiste des monuments médiévaux arméniens (1932-2005)</note>
+                         </person>
+                         <person xml:id="L1_personne_04">
+                             <persName>M. Atablian</persName>
+                             <note>Directeur du Club Unesco des Arméniens à l'époque de la rédaction de la lettre. Aucune information supplémentaire
+                                 n'est publiée en ligne à propos de lui.</note>
+                         </person>
+                     </listPerson>
+                     <listOrg>
+                         <org xml:id="L1_asso_01">
+                             <orgName>Club Unesco des Arméniens</orgName>
+                             <note>Ancien nom de l'actuelle Maison de la Culture arménienne de Décines</note>
+                         </org>
+                         <org xml:id="L1_centre_01">
+                             <orgName>Centre d'Etude et de Documentation sur la Culture arménienne</orgName>
+                             <note>Centre d'éducation, promotion et développement de la culture arménienne.</note>
+                         </org>
+                     </listOrg>
+                 </particDesc>
+                 <settingDesc>
+                     <listPlace>
+                         <place xml:id="L1_monument_01">
+                             <placeName>Monastère d'Horomos</placeName>
+                             <idno type="wikidata">Q2727504</idno>
+                         </place>
+                         <place xml:id="L1_monument_02">
+                             <placeName>Eglise des Saints-Apôtres de Kars</placeName>
+                             <idno type="wikidata">Q4833028</idno>
+                         </place>
+                         <place xml:id="L1_monument_03">
+                             <placeName>église de la Mère de Dieu d'Argelan</placeName>
+                         </place>
+                         <place xml:id="L1_monument_04">
+                             <placeName>église Saint-Etienne de Berkri</placeName>
+                         </place>
+                         <place xml:id="L1_monument_05">
+                             <placeName>église Saint-Georges de Goms</placeName>
+                         </place>
+                         <place xml:id="L1_ville_01">
+                             <placeName>Décines</placeName>
+                             <idno type="wikidata">Q1056120</idno>
+                         </place>
+                         <place xml:id="L1_région_01">
+                             <placeName>Arménie turque</placeName>
+                             <note>Le nom "d'Arménie turque" fait référence à une région historique de la Grande Arménie, aujourd'hui située dans le territoire de la 
+                                 République de Turquie. Elle s'étend entre les provinces de la région de Van à celles de la région de Kars.</note>
+                         </place>
+                     </listPlace>
+                 </settingDesc>
+             </profileDesc>
+         </teiHeader>
+         <text>
+             <body>
+                 <head>
+                         <persName>Monsieur et Madame THIERRY</persName>
+                         <placeName>
+                             8 rue Bouilloux-Laffont
+                             91150 ETAMPES
+                         </placeName>
+                         <placeName>
+                             DECINES
+                         </placeName> 
+                         <date>le 24 DECEMBRE 1980</date>
+                         1088/GB
+                 </head>
+                 <p>
+                     Madame, Monsieur,
+                 </p>
+                 <p>
+                     Je viens de recevoir votre étude sur le <placeName ref="#monument_01">monastère d'Horomos</placeName>. Comme d'habitude, l'ouvrage est exemplaire. Quatre 
+                     volumes de vos monographies des <placeName ref="#monument_02">Saints-Apôtres de Kars</placeName> et <placeName ref="#monument_01">monastère d'Horomos</placeName> 
+                     ont été placés, par les soins du <orgName ref="#Asso_01">Club Unesco des Arméniens</orgName>, dans le fonds du <orgName ref="#centre_01">C.E.D.I.A.</orgName>
+                     (Centre d'Etudes, de Documentations et d'Informations Arméniennes) qui vient de s'ouvrir à <placeName ref="#ville_01">Décines</placeName>, dans la banlieue de Lyon. 
+                 </p>
+                 <p>
+                     Nous avons, de notre côté, réalisé le voyage en <placeName ref="#région_01">Arménie turque</placeName> dont nous nous étions entretenus, lors de notre entrevue en Juin.
+                     Nous avons pu visiter trente-trois églises. 
+                 </p>
+                 <p>
+                     Nous vous confirmons que le clocher de <placeName ref="#monument_03">l'église de la Mère de Dieu d'Argelan</placeName> est tombé : il 
+                     a été dynamité par les villageois qui se proposent d'en faire autant à <placeName ref="#monument_04">Saint Etienne de Berkri</placeName>. 
+                     La recherche d'or dans les murs reste la seule motivation, aux dires du paysan qui nous a relaté l'évènement auquel il a participé. La coupole
+                     de <placeName ref="#monument_05">Saint Georges de Goms</placeName> se trouve aujourd'hui percée, la porte d'entrée du monastère n'existe plus. 
+                     Pour l'ensemble, la lente dégradation des monuments se poursuit.
+                 </p>
+                 <p>
+                     Par ailleurs et comme vous le savez par l'invitation qui vous a été envoyée, nous avons organisé en octobre à Lyon la présentation
+                     de l'exposition de <persName ref="#personne_03">M. ALPAGO-NOVELLO</persName>, ainsi que deux journées d'études consacrées à la culture arménienne. 
+                     Ce stage a été suivi par cent cinquantes personnes et l'exposition visitée par plus d'un millier de Lyonnais. 
+                 </p>
+                 <p>
+                     Nous nous proposons d'offrir, avec un égal succès, une prestations plus savante sur l'architecture arménienne. Nous prévoyons cette 
+                     manifestation en mars 1981 et il nous serait agréable de vous proposer comme conférenciers au public invité. Nous vous demandons de 
+                     nous indiquer, dans un premier, votre accord de principe, si vous en avez convenance. 
+                 </p>
+                 <p>
+                     Nous vous prions d'agréer, Madame, Monsieur, l'expression de notre considération distinguée.
+                 </p>   
+                 <p>
+                     LE PRESIDENT 
+                 </p>
+             </body>
+         </text>
+     </TEI>
+     <TEI xml:id="lettre_O2">
+         <teiHeader>
+             <fileDesc>
+                 <titleStmt>
+                     <title>Lettre de Jean-Michel Thierry adressée à Adriano Alpago-Novello, datée du 12/06/1976</title>
+                     <author>Jean-Michel Thierry</author>
+                 </titleStmt>
+                 <publicationStmt>
+                     <ab>Cet encodage minimal ne s'intéresse pas aux aspects textuels de la source mais à l'indexation précise des lieux et personnes mentionnés.</ab>
+                 </publicationStmt>
+                 <sourceDesc>
+                     <p>Lettre de Jean-Michel Thierry adressée à Adriano Alpago-Novello, datée du 12/06/1976</p>
+                 </sourceDesc>
+             </fileDesc>
+             <profileDesc>
+                 <langUsage>
+                     <language ident="fr">français</language>
+                 </langUsage>
+                 <correspDesc>
+                     <correspAction type="sent">
+                         <persName>Jean-Michel Thierry</persName>
+                         <placeName>8 avenue Bouilloux-Lafont, 91150 Etampes, France</placeName>
+                         <date>12.06.1976</date>
+                     </correspAction>
+                     <correspAction type="received">
+                         <persName>Adriano Alpago-Novello</persName>
+                         <placeName xml:lang="it">via Melzi d’Eril, 6 20154 MILANO ITALIA</placeName>
+                     </correspAction>
+                 </correspDesc>
+                 <particDesc>
+                     <listPerson>
+                         <person xml:id="L2_personne_01">
+                             <persName>Jean-Michel Thierry</persName>
+                             <idno type="wikidata">Q3168161</idno>
+                             <note>Chirurgien et historien de l'art français spécialiste de l'architecture arménienne (1916-2011)</note>
+                         </person>
+                         <person xml:id="L2_personne_02">
+                             <persName>Adriano Alpago-Novello</persName>
+                             <idno type="wikidata">Q4685556</idno>
+                             <note>Architecte et historien de l'art italien spécialiste des monuments médiévaux arméniens (1932-2005)</note>
+                         </person>
+                     </listPerson>
+                     <listOrg>
+                         <org xml:id="L2_Centre_01">
+                             <orgName>Centre d'Etude et de Documentation sur la Culture arménienne</orgName>
+                             <note>Centre d'éducation, promotion et développement de la culture arménienne.</note>
+                         </org>
+                         <org xml:id="L2_Revue_01">
+                             <orgName>Revue des Etudes arméniennes</orgName>
+                             <idno type="wikidata">Q7318986</idno>
+                             <note>Revue scientifique publiée annuellement qui contient une collection de travaux inédits sur le thème de l'Arménie et la culture arménienne.</note>
+                         </org>
+                         <org xml:id="L2_Congrégation_01">
+                             <orgName>Congrégation des Pères Mékhitaristes</orgName>
+                             <idno type="wikidata">Q663304</idno>
+                             <note>Ordre monastique catholique arménien fondé en 1700 et qui occupe aujourd'hui deux monastères en Autriche et en Italie.</note>
+                         </org>
+                     </listOrg>
+                 </particDesc>
+                 <settingDesc>
+                     <listPlace>
+                         <place xml:id="L2_pays_01">
+                             <placeName>France</placeName>
+                             <idno type="wikidata">Q142</idno>
+                         </place>
+                         <place xml:id="L2_pays_02">
+                             <placeName>République Socialiste Soviétique d'Arménie (RSS Arménie)</placeName>
+                             <idno type="wikidata">Q132856</idno>
+                             <note>La RSS d'Arménie existe entre 1920 et 1991, quand l'Arménie est l'une des quinze républiques membres de l'Union Soviétique. 
+                                   Depuis 1991, le pays existe comme République d'Arménie.</note>
+                         </place>
+                         <place xml:id="L2_pays_03">
+                             <placeName>Autriche</placeName>
+                             <idno type="wikidata">Q40</idno>
+                         </place>
+                         <place xml:id="L2_pays_04">
+                             <placeName>Italie</placeName>
+                             <idno type="wikidata">Q38</idno>
+                         </place>
+                     </listPlace>
+                 </settingDesc>
+             </profileDesc>
+         </teiHeader>
+         <text>
+             <body>
+                 <head>
+                     <date>Ce 12 juin 1976</date>
+                 </head>
+                 <p>
+                     Cher Monsieur, 
+                 </p>
+                 <p>
+                     Je vous écris de ma maison de campagne où je suis en train de rédiger mon livre sur les monuments arméniens du Vaspurakan. J’ai bien reçu vos circulaires 
+                     concernant la création d’un <orgName ref="#Centre_01">Centre d’Etude et de Documentation sur la Culture arménienne</orgName> et votre projet d’un second
+                     symposium sur l’Art Arménien.
+                 </p>
+                 <p>
+                     Je forme tous mes voeux pour que votre centre trouve un développement satisfaisant. Il serait souhaitable qu’il entretienne avec la <orgName ref="#Revue_01">
+                     Revue des Etudes Arméniennes</orgName> des relations étroites ce qui serait fructueux pour les deux institutions. Pour ce qui est du prochain symposium, j’espère 
+                     pouvoir m’y rendre. Je ne saurais vous donner d’indications sur le lieu éventuelle de cette réunion. La <placeName ref="#pays_01">France</placeName>, comme la 
+                     <placeName ref="#pays_02">RSS d’Arménie</placeName> me paraissent l’une et l’autre trop excentriques pour être retenues. L’<placeName ref="#pays_03">Autriche</placeName> 
+                     pourrait être envisagée à cause de la présence à Vienne des <orgName ref="#Congrégation_01">RRPP Mechitaristes</orgName>, mais <placeName ref="#pays_04">l’Italie</placeName>, 
+                     pour toutes sortes de raisons me paraît le lieu le plus approprié.
+                 </p>
+                 <p>
+                     En ce qui concerne l’organisation et le programme, j’ai été frappé par quelques imperfections du dispositif des symposia de 1973 et 1974. En dépit de leur intérêt, 
+                     il m’a semblé qu’il y avait un peu trop de communications et que la durée qui leur était accordée n’était, et de loin, pas respecté ce qui a entrainé une certaine 
+                     confusion. Il y aurait donc lieu d’abord de faire régner une certaine discipline, ce qui ne doit pas être impossible. Ensuite et pour diversifier un peu, il serait souhaitable de répartir les travaux en deux groupes
+                 </p>
+                 <p>
+                     <list type="syllogism">
+                         <item>
+                             1°) Présentation d'un rapport, portant sur un sujet important mais 
+                             aux limites parfaitement définies concernant l'iconographie, la technique, l'archi-
+                             tecture ou tout autre forme d'art. Ce rapport serait établi conjointement par
+                             un chercheur d'Arménie soviétique et un chercheur d'Europe occidentale ou d'
+                             Amérique. Il donnerait lieu à une discussion où les orateurs n'aurait pas plus de 
+                             5 mn pour donner leurs opinions.
+                         </item>
+                         <item>
+                             2°) Présenations de communications libres d'une durée qui ne pourrait 
+                             excéder 15 mn et qui seraient réparties selon des sections précises ce qui permet-
+                             trait aux spécialistes de se consacrer uniquement à ce qui les intéresse.
+                         </item>
+                     </list>
+                 </p>
+                 <p>
+                     Quant aux thèmes, ceux que vous proposez sont très intéressants mais, me semble-t-il, peut-être un peu trop généraux et plus orientés sur l'histoire en général que 
+                     sur l'art en particulier les principes originels de la culture arménienne peuvent donner libre cours à toutes les digressions. Je serais plutôt partisan de sujet limité 
+                     comme la peinture murale arménienne, les modes de construction, etc...
+                 </p>
+                 <p>
+                     Avec mon fidèle souvenir
+                 </p>
+                 <p corresp="signature">
+                     Dr. J.M. THIERRY
+                     8 avenue Bouilloux-Lafont
+                     91150 ETAMPES FRANCE
+                 </p>
+             </body>
+         </text>
+     </TEI>
+     <TEI xml:id="lettre_O3">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Lettre de Patrick Donabédian adressée à Jean-Michel Thierry, datée du 26/03/1979</title>
+                    <author>Patrick Donabédian</author>
+                </titleStmt>
+                <publicationStmt>
+                    <ab>Cet encodage minimal ne s'intéresse pas aux aspects textuels de la source mais à l'indexation précise des lieux et personnes mentionnés.</ab>
+                </publicationStmt>
+                <sourceDesc>
+                    <p>Lettre de Patrick Donabédian adressée à Jean-Michel Thierry, datée du 26/03/1979</p>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <langUsage>
+                    <language ident="fr">français</language>
+                </langUsage>
+                <correspDesc>
+                    <correspAction type="sent">
+                        <persName>Patrick Donabédian</persName>
+                        <placeName xml:lang="fr">Erevan, Arménie</placeName>
+                        <date>26.03.1979</date>
+                    </correspAction>
+                    <correspAction type="received">
+                        <persName>Jean-Michel Thierry</persName>
+                    </correspAction>
+                    <correspContext>
+                        <p></p>
+                    </correspContext>
+                </correspDesc>
+                <particDesc>
+                    <listPerson>
+                        <person xml:id="L3_personne_01">
+                            <persName>Jean-Michel Thierry</persName>
+                            <idno type="wikidata">Q3168161</idno>
+                            <note>Chirurgien et historien de l'art français spécialiste de l'architecture arménienne (1916-2011)</note>
+                        </person>
+                        <person xml:id="L3_personne_02">
+                            <persName>Patrick Donabédian</persName>
+                            <idno type="VIAF">94463661</idno>
+                            <note>Historien de l'art français spécialiste de l'architecture arménienne (1953- )</note>
+                        </person>
+                    </listPerson>
+                    <listOrg>
+                        <org xml:id="L3_Ambassade_01">
+                            <orgName>Ambassade de France à Moscou</orgName>
+                            <idno type="wikidata">Q16687413</idno>
+                        </org>
+                        <org xml:id="L3_Universite_01">
+                            <orgName>Université de Paris-Nanterre</orgName>
+                            <idno type="wikidata">Q1394262</idno>
+                        </org>
+                        <org xml:id="L3_Academie_01">
+                            <orgName>Académie des Beaux-Arts de Leningrad</orgName>
+                            <idno type="wikidata">Q3953307</idno>
+                        </org>
+                    </listOrg>
+                </particDesc>
+                <settingDesc>
+                    <listPlace>
+                        <place xml:id="L3_ville_01">
+                            <placeName>Erevan</placeName>
+                            <idno type="wikidata">Q1953</idno>
+                        </place>
+                        <place xml:id="L3_ville_02">
+                            <placeName>Moscou</placeName>
+                            <idno type="wikidata">Q649</idno>
+                        </place>
+                        <place xml:id="L3_ville_03">
+                            <placeName>Leningrad</placeName>
+                            <idno type="wikidata">Q656</idno>
+                        </place>
+                        <place xml:id="L3_pays_01">
+                            <placeName>France</placeName>
+                            <idno type="wikidata">Q142</idno>
+                        </place>
+                        <place xml:id="L3_pays_02">
+                            <placeName>Arménie</placeName>
+                            <idno type="wikidata">Q399</idno>
+                        </place>
+                        <place xml:id="L3_pays_03">
+                            <placeName>URSS</placeName>
+                            <idno type="wikidata">Q15180</idno>
+                        </place>
+                    </listPlace>
+                </settingDesc>
+            </profileDesc>
+        </teiHeader>
+         <text xml:lang="fr">
+             <body>
+                 <p>
+                     Cher monsieur <persName ref="#personne_01">Thierry</persName>,
+                 </p>
+                 <p>
+                     Je viens aujourd'hui m'adresser à vous en tant qu'ami aîné de bon conseil afin de vous exposer un problème important qui me préoccupe. Je vous serai très 
+                     reconnaissant si vous pouviez trouver un instant pour m'écrire et me donner votre avis.
+                 </p>
+                 <p>
+                     J'ai reçu il y a quelques jours un télégramme en provenance de <orgName ref="#Academie_01">l'Ambassade de France à Moscou</orgName> par lequel on m'informait qu'il 
+                     était donné suite à ma demande concernant un poste d'assistant de français à <placeName ref="#ville_01">Erévan</placeName>. Je vous en avais déjà parlé : j'avais
+                     fait cette demande il y a deux ans, mais on m'avait fait l'an dernier une réponse négative. Depuis, je ne m'en étais plus préoccupé. Après réception du télégramme, 
+                     j'ai téléphoné à <placeName ref="#ville_02">Moscou</placeName> et l'attaché culturel m'a indiqué qu'il y avait de fortes chances pour que, cette fois, ma demande 
+                     aboutisse. Ayant appris mon hésitation, ce monsieur, que je connais assez bien, m'a donné la possibilité d'accepter provisoirement et de ne faire mon choix définitif 
+                     que dans le cours de l'été. Si j'acceptais, j'enseignerais à <placeName ref="#ville_01">Erévan</placeName> un ou deux ans (1 ou 2 à mon choix). 
+                 </p>
+                 <p>
+                     Les arguments "pour" sont importants :
+                     <list type="syllogism">
+                         <item>
+                             possibilité de visiter encore sur place de nouveaux monuments, de m'enrichir encore de nouvelles connaissances, de mener à bien mon travail 
+                             pour <orgName ref="#Universite_01">Nanterre</orgName>, qui est horriblement en retard...
+                         </item>
+                         <item>
+                             acquisition d'une base matérielle : parallèlement au salaire soviétique, une certaine somme me sera versée en <placeName ref="#pays_01">France</placeName> 
+                             justement à cause de ma "pauvreté". Un an de travail en Arménie résoudrait en partie ce problème.
+                         </item>
+                         <item>
+                             possibilité de soutenir ma thèse à <orgName ref="#Academie_01">l'Académie des Beaux-Arts de Leningrad</orgName> l'automne prochain ou au début de l'hiver : 
+                             pour des raisons administratives que je ne peux ici vous expliquer en détail, la soutenance de ma thèse ne peut se faire qu'à cette période, 
+                             à <placeName ref="#ville_03">Leningrad</placeName>. En cas de départ définitf pour la <placeName ref="#pays_01">France</placeName> - comme prévu - cet été, 
+                             un retour en <placeName ref="#pays_03">URSS</placeName> pour la soutenance m'apparait assez difficile (mais certainement possible).
+                         </item>
+                     </list>
+                 </p>
+                 <p>
+                     Vous connaissez en partie les arguments "contre" :
+                     <list type="syllogism">
+                         <item>
+                             le désir de mes parents - déjà assez âgés - que nous rentrions définitivement le plus tôt possible.
+                         </item>
+                         <item>
+                             le problème d'un éventuel emploi en <placeName ref="#pays_01">France</placeName>. Des quelques conversations que nous avons eues en septembre et de certaines 
+                             de vos lettres il ressort que j'aurais davantage intérêt à revenir rapidement en <placeName ref="#pays_01">France</placeName>. C'est surtout à ce sujet que 
+                             j'ai besoin de votre conseil.
+                         </item>
+                     </list>
+                 </p>
+                 <p>
+                     Je voudrais vous demander si à votre avis, en ne rentrant pas définitivement cette année en <placeName ref="#pays_01">France</placeName>, je risque de laisser passer 
+                     des possibilités de travail (dans le domaine qui nous intéresse) qui ne se représenteraient plus. 
+                 </p>
+                 <p>
+                     En vous exposant mon problème, je ne veux pas que, craignant d'influencer trop fortement sur mon choix, vous ayiez le sentiment d'une trop grande responsabilité 
+                     qui vous gênerait dans votre réponse. J'ai simple-ment besoin de connaître votre avis, votre conseil. 
+                 </p>
+                 <p>
+                     En vous remerciant d'avance, 
+                 </p>
+                 <p corresp="signature">
+                     votre fidèle <persName ref="#personne_02">Patrick D.</persName> 
+                 </p>
+             </body>
+         </text>
+    </TEI>
+</teiCorpus>
